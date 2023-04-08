@@ -3,16 +3,16 @@ import Keyword from "../../server/schema/keywords";
 
 const person: Contact = {
   name: "Aleksandra Sikora",
-  about: "Open source, TypeScript, React, databases.",
+  about: "Open-source developer at The Guild. Focused on TypeScript, React, databases.",
   image: {
     url: "people/aleksandra.jpg",
   },
   tagline: "",
   social: {
     homepage: "https://www.aleksandra.codes/",
-    mastodon: "", // This has to be a whole link
+    mastodon: "https://mas.to/@aleksandra", // This has to be a whole link
     twitter: "aleksandrasays", // Handle without @ is enough
-    github: "",
+    github: "beerose",
     facebook: "",
     medium: "",
     instagram: "",
